@@ -19,7 +19,7 @@ public class Name {
                 System.out.println("");
         }
 
-
+//Телефонный справочник
                         private static HashMap<String, String> phonebook = new HashMap<String, String>();
 
                         private static void addPhonebook(String phone, String name) {
